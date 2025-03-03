@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Hello world"
+    },
+    {
+      "name": "homePage_Text",
+      "value": "label"
+    },
+    {
+      "name": "secondPage_Text",
+      "value": "Hi there"
+    },
+    {
+      "name": "homeClick_value",
+      "value": "Next"
+    },
+    {
+      "name": "secondClick_value",
+      "value": "Back"
+    }
+  ]
+}
